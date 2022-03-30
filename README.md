@@ -5,4 +5,4 @@ The project consists of two files, client.py and server.py. Sometimes problems c
 and thus you get error messages. I will add a dropbox link with the entire file zipped in case this occurs,
 so that it can be downloaded and be run directly in the pycharm.
 
-Dropbox link: https://www.dropbox.com/s/liq9hkp2ehceaod/portofolio%20test.zip?dl=0
+Dropbox link: https://www.dropbox.com/s/iv0vjqpz87514kn/portofolio%20test%20finale.zip?dl=0
