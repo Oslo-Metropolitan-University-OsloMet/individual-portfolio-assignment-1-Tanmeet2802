@@ -8,4 +8,5 @@ so that it can be downloaded and be run directly in the pycharm.
 Dropbox link: https://www.dropbox.com/s/iv0vjqpz87514kn/portofolio%20test%20finale.zip?dl=0
 
 This is how server.py is starter: python server.py 3050
+
 This is how to connect client.py to the server: python client.py 127.0.0.1 3050 Morten
